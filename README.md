@@ -13,10 +13,30 @@ Curious about the outcomes of our experiment on the [Amazon Review dataset]([htt
 
 The visual representation above encapsulates the performance metrics of various models, including accuracy, precision, recall, and F1-score. Each model, such as Model TC (Optics), Model DB, Model LR, Model NB, and Model TC, has undergone rigorous evaluation to assess its effectiveness in decoding sentiment from Amazon product reviews.
 
-## For Users
+## For Readers
 
-Coming Soon📊🔍
+The Vietnamese version of the project is available for exploration [here]([Readings/Documents/NLP Docs.pdf]). The English version is currently in progress, and we're excited to share it with you soon! 🚀
 
-## Application 
+## Application
 
-Coming Soon !!!
+In addition to our project exploration, we are thrilled to offer a live demo hosted on Hugging Face Spaces. 🚀
+
+### Live Demo
+
+Explore our sentiment analysis in action through our interactive demo. Witness firsthand how our models, including DistilBERT, decode sentiments from Amazon product reviews. Click [here](https://huggingface.co/spaces/perman2011/DistilBERT-Sentiment-Analysis) to access the demo on Hugging Face Spaces.
+
+### Demo Preview
+
+Curious about how the demo works? Take a sneak peek below:
+
+![Demo Preview](Demo.png)
+
+This interactive demonstration showcases the power of our sentiment analysis approach. Feel free to interact with the demo, providing a hands-on experience of our models in action.
+
+Give it a try and share your thoughts with us! 🌐✨
+
+## Further
+
+For further discussion, inquiries, or collaboration opportunities, feel free to contact me via email: [tommyquanglowkey2011@gmail.com](mailto:tommyquanglowkey2011@gmail.com). I'm excited to connect and explore potential avenues together! 🥇😆❤️
+
+Additionally, your feedback is invaluable to us. If you have suggestions, questions, or insights, don't hesitate to reach out. Let's continue the conversation! 📧🌐✨
