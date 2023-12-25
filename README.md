@@ -7,7 +7,7 @@ To enhance robustness, **we implement a handling mechanism for mislabeled sample
 
 ## Experiment Results
 
-Curious about the outcomes of our experiment on the [Amazon Review dataset]([https://example.com/amazon-review-dataset](https://www.kaggle.com/datasets/bittlingmayer/amazonreviews))? Let's dive into the results:
+Curious about the outcomes of our experiment on the [Amazon Review dataset]((https://www.kaggle.com/datasets/bittlingmayer/amazonreviews))? Let's dive into the results:
 
 ![Experiment Results](Result.png)
 
@@ -15,7 +15,7 @@ The visual representation above encapsulates the performance metrics of various 
 
 ## For Readers
 
-The Vietnamese version of the project is available for exploration [here]([Readings/Documents/NLP Docs.pdf]). The English version is currently in progress, and we're excited to share it with you soon! 🚀
+The Vietnamese version of the project is available for exploration [here](./Readings/Documents/NLP Docs.pdf). The English version is currently in progress, and we're excited to share it with you soon! 🚀
 
 ## Application
 
