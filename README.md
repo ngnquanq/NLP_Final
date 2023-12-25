@@ -15,7 +15,7 @@ The visual representation above encapsulates the performance metrics of various 
 
 ## For Readers
 
-The Vietnamese version of the project is available for exploration [here](./Readings/Documents/NLP Docs.pdf). The English version is currently in progress, and we're excited to share it with you soon! 🚀
+The Vietnamese version of the project is available for exploration [here](./Readings/Documents/NLP%20Docs.pdf). The English version is currently in progress, and we're excited to share it with you soon! 🚀
 
 ## Application
 
