@@ -13,6 +13,10 @@ Curious about the outcomes of our experiment on the [Amazon Review dataset]((htt
 
 The visual representation above encapsulates the performance metrics of various models, including accuracy, precision, recall, and F1-score. Each model, such as Model TC (Optics), Model DB, Model LR, Model NB, and Model TC, has undergone rigorous evaluation to assess its effectiveness in decoding sentiment from Amazon product reviews.
 
+Based on the plot, it's amazing to see that 🔥🔥**just a simple transformer encoder with a very old-fashioned clustering method, Model_TC(Optics), can outperform any pre-trained model on the Amazon sentiment analysis dataset**🔥🔥. This highlights the power of thoughtful integration of classical techniques with modern approaches, unlocking exceptional performance in sentiment classification.
+
+Stay tuned for a detailed analysis of these results and insights gained from our experiment! 📊🔍
+
 ## For Readers
 
 The Vietnamese version of the project is available for exploration [here](./Readings/Documents/NLP%20Docs.pdf). The English version is currently in progress, and we're excited to share it with you soon! 🚀
